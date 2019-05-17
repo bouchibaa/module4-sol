@@ -1,5 +1,5 @@
 (function (window) {
-  var names = ["John","Yaakov","Rishabh","Dave","Morris","Jack","Jill","jonah"];
+  var names = ["Yaakov","John","Jen","Jason","Paul","Frank","Larry","Paula","Laura","Jim"];
   for (var i in names){
   var fll = (names[i].charAt(0)).toLowerCase();
   var flu = names[i].charAt(0);
